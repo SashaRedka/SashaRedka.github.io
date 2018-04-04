@@ -221,9 +221,8 @@ textarea.form-control {
 /* ---------------------------------------------- /*
  * General Styles
 /* ---------------------------------------------- */
-
-.pfblock {
-	padding: 120px 0 100px;
+.pfblock{
+	   padding: 120px 0 100px;
 }
 
 .pfblock-gray {
